@@ -1,0 +1,5 @@
+(rocq.theory
+ (name Test)
+ (theories Stdlib AAC_tactics)
+ (plugins rocq-aac-tactics.plugin)
+ (flags :standard -w +default))
