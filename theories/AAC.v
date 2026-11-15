@@ -245,9 +245,6 @@ Section s.
 
   #[local] Hint Resolve e_bin e_unit: typeclass_instances.
 
-  Scheme All for prod.
-  Scheme All for nelist.
-  
   (** *** Almost normalised syntax
 
      A term in [T] is in normal form if:
